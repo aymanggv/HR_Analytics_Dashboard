@@ -1,4 +1,4 @@
-# HR_Analytics_Dashboard
+# HR Analytics Dashboard
 The HR Analysis Dashboard, built using Power BI, provides an in-depth analysis of employee data, offering insights into various key metrics such as workforce demographics, salary distribution, and retention rates. This dashboard was designed using data sourced from this dataset on Kaggle. Below is a detailed explanation of the key sections and features:</br>
 
 1. Workforce Distribution</br>
